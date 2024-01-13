@@ -1,0 +1,10 @@
+{
+  "project_name": "demo",
+  "database": 
+    {
+      "servername": "localhost",
+      "username": "root",
+      "password": "",
+      "database_name": "migration_demo_db"
+    }
+}
